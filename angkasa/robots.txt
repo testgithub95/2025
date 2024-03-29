@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://angkasajp.zetacomponents.org/angkasa/sitemap.xml
